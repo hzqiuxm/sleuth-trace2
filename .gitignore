@@ -24,7 +24,7 @@ dist/
 nbdist/
 .nb-gradle/
 #.gitignore
-build.gradle
+#build.gradle
 gradle/
 gradlew
 gradlew.bat
